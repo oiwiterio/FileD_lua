@@ -7,9 +7,9 @@ local f2name = "ShowB.bin"
 
 目前这就是这个lua字节差异演示的最终形态了，并没有考虑继续维护
 所以有几个已知的缺点
-1.比较文件的名不能是中文(其他语言我不清楚)
-2.想要执行这个程序的局限性很大
-3.作者是福瑞
+1. 比较文件的名不能是中文(其他语言我不清楚)
+2. 想要执行这个程序的局限性很大
+3. 作者是福瑞
 
 Translated from Bing:
 Download all the files directly to a folder on your computer, and then open cmd in this folder.
