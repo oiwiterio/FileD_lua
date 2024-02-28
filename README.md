@@ -23,4 +23,4 @@ At the moment, this is the final form of this LUA byte diff demo, and we don't t
 So there are several known drawbacks
 1. The name of the comparison file cannot be Chinese (I don't know about other languages)
 2. There are great limitations to wanting to execute this procedure
-3. The author is Fury
+3. The author is FURRY
